@@ -1,0 +1,11 @@
+---
+title: "data_mining"
+author: "Daniel Urimubenshi"
+date: "2026-0
+
+
+```{r}
+library(ISLR2)
+head(Boston)
+```
+
